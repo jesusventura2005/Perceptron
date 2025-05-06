@@ -1,8 +1,6 @@
-bias,weight1,weight2
-x1,x2,expected_response
-x1,x2,expected_response
+en el archivo configuracion esta el sesgo o bias y los pesos siempre que el
+programa inicie se carga automaticamente lo que haya, tambien puedes remplazar
+los pesos y el bias desde la misma interfaz grafica al igual que las entradas 
 
-
-Esta es la manera en la que se debe crear el txt de prueba 
 
 si el programa no inicia seguramente debas hacer un pip installl numpy 
